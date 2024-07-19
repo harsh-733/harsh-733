@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
-<h3 align="center">Passionate about Machines, CODES and Photgraphy</h3>
+<h3 align="center">Passionate about Machines, CODES and Photography</h3>
 
 
 - 📫 How to reach me **harsh262011@hotmail.com**
